@@ -21,7 +21,7 @@ After preprocessing, the model explained about 4% of the variance in sleep durat
 **Note:** The high R² on the raw data was obtained before outlier handling, while the phone-use and sleep-duration columns still contained extreme values, so it should not be read as a real effect.
 
 ## Report
-- [docs/paper.pdf](docs/report.pdf)
+- [docs/report.pdf](docs/paper.pdf)
 - [docs/poster.pdf](docs/poster.pdf)
 
 ---
